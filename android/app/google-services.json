@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355995772159",
+    "project_id": "umpteen-623a7",
+    "storage_bucket": "umpteen-623a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355995772159:android:fbfc3b91bb7542303458ca",
+        "android_client_info": {
+          "package_name": "com.example.umpteen_day1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355995772159-hji049hl1h9hkk7obdmbl3ag2pch79ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umpteen_day1",
+            "certificate_hash": "a916266547e21572775ff1ec0ad1f6aef2443d7e"
+          }
+        },
+        {
+          "client_id": "355995772159-14nk9ja2bqebv8chioj25ekov8i7uv8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTZYubQ_ekCWcOrsUv_ulN8r9XQoRJC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355995772159-14nk9ja2bqebv8chioj25ekov8i7uv8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
